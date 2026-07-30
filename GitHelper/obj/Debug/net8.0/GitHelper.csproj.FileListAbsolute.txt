@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\bin\Debug\net8.0\GitHelper.exe
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\bin\Debug\net8.0\GitHelper.deps.json
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\bin\Debug\net8.0\GitHelper.runtimeconfig.json
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\bin\Debug\net8.0\GitHelper.dll
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\bin\Debug\net8.0\GitHelper.pdb
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\obj\Debug\net8.0\GitHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\obj\Debug\net8.0\GitHelper.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\obj\Debug\net8.0\GitHelper.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\obj\Debug\net8.0\GitHelper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\obj\Debug\net8.0\GitHelper.sourcelink.json
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\obj\Debug\net8.0\GitHelper.dll
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\obj\Debug\net8.0\refint\GitHelper.dll
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\obj\Debug\net8.0\GitHelper.pdb
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\obj\Debug\net8.0\GitHelper.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\GitHelper\GitHelperTest\GitHelper\obj\Debug\net8.0\ref\GitHelper.dll
