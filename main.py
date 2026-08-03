@@ -81,10 +81,14 @@ def commit_push():
             ["commit", "-m", message]
         )
 
-        run_git(
-            repo,
-            ["push"]
-        )
+       # run_git(
+          #  repo,
+         #   ["push"]
+        #)
+
+        branch = run_git(repo, ["branch", "--show-current"]).strip()
+
+        run_git(repo, ["push", "origin", branch])
 
         messagebox.showinfo(
             "Git Helper",
