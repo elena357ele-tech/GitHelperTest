@@ -5,7 +5,7 @@ import subprocess
 
 
 # ---------------------------------
-# البحث عن الـ Repository
+# Repository search
 # ---------------------------------
 
 def find_git_repo():
@@ -23,7 +23,7 @@ def find_git_repo():
 
 
 # ---------------------------------
-# تنفيذ أوامر Git
+#   Git command
 # ---------------------------------
 
 def run_git(repo, args):
@@ -42,7 +42,7 @@ def run_git(repo, args):
 
 
 # ---------------------------------
-# هل يوجد تغييرات؟
+# see if changes 
 # ---------------------------------
 
 def has_changes(repo):
@@ -102,7 +102,7 @@ def commit_push():
 
 
 # ---------------------------------
-# البحث عن الـ Repository
+# search for repository
 # ---------------------------------
 
 repo = find_git_repo()
@@ -120,8 +120,8 @@ if not has_changes(repo):
     exit()
 
 
-    # ---------------------------------
-# إنشاء النافذة
+# ---------------------------------
+# window creation
 # ---------------------------------
 
 root = tk.Tk()
@@ -130,7 +130,7 @@ root.title("Git Helper")
 root.geometry("500x220")
 root.resizable(False, False)
 
-# اسم المشروع
+# Project name
 project_name = repo.name
 
 lbl_title = tk.Label(
